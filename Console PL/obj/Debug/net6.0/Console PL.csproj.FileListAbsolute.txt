@@ -1,0 +1,54 @@
+D:\QLBH\Console PL\bin\Debug\net6.0\Console PL.exe
+D:\QLBH\Console PL\bin\Debug\net6.0\Console PL.deps.json
+D:\QLBH\Console PL\bin\Debug\net6.0\Console PL.runtimeconfig.json
+D:\QLBH\Console PL\bin\Debug\net6.0\Console PL.dll
+D:\QLBH\Console PL\bin\Debug\net6.0\Console PL.pdb
+D:\QLBH\Console PL\obj\Debug\net6.0\Console PL.csproj.AssemblyReference.cache
+D:\QLBH\Console PL\obj\Debug\net6.0\Console PL.GeneratedMSBuildEditorConfig.editorconfig
+D:\QLBH\Console PL\obj\Debug\net6.0\Console PL.AssemblyInfoInputs.cache
+D:\QLBH\Console PL\obj\Debug\net6.0\Console PL.AssemblyInfo.cs
+D:\QLBH\Console PL\obj\Debug\net6.0\Console PL.csproj.CoreCompileInputs.cache
+D:\QLBH\Console PL\obj\Debug\net6.0\Console PL.dll
+D:\QLBH\Console PL\obj\Debug\net6.0\refint\Console PL.dll
+D:\QLBH\Console PL\obj\Debug\net6.0\Console PL.pdb
+D:\QLBH\Console PL\obj\Debug\net6.0\Console PL.genruntimeconfig.cache
+D:\QLBH\Console PL\obj\Debug\net6.0\ref\Console PL.dll
+D:\QLBH\Console PL\bin\Debug\net6.0\BL.deps.json
+D:\QLBH\Console PL\bin\Debug\net6.0\BL.runtimeconfig.json
+D:\QLBH\Console PL\bin\Debug\net6.0\Persistence.deps.json
+D:\QLBH\Console PL\bin\Debug\net6.0\Persistence.runtimeconfig.json
+D:\QLBH\Console PL\bin\Debug\net6.0\Persistence.exe
+D:\QLBH\Console PL\bin\Debug\net6.0\DAL.deps.json
+D:\QLBH\Console PL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\QLBH\Console PL\bin\Debug\net6.0\DAL.exe
+D:\QLBH\Console PL\bin\Debug\net6.0\BL.exe
+D:\QLBH\Console PL\bin\Debug\net6.0\Google.Protobuf.dll
+D:\QLBH\Console PL\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\QLBH\Console PL\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\QLBH\Console PL\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\QLBH\Console PL\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\QLBH\Console PL\bin\Debug\net6.0\MySql.Data.dll
+D:\QLBH\Console PL\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+D:\QLBH\Console PL\bin\Debug\net6.0\ZstdNet.dll
+D:\QLBH\Console PL\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\QLBH\Console PL\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\QLBH\Console PL\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\QLBH\Console PL\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\QLBH\Console PL\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\QLBH\Console PL\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\QLBH\Console PL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\QLBH\Console PL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\QLBH\Console PL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\QLBH\Console PL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\QLBH\Console PL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\QLBH\Console PL\bin\Debug\net6.0\BL.dll
+D:\QLBH\Console PL\bin\Debug\net6.0\DAL.dll
+D:\QLBH\Console PL\bin\Debug\net6.0\Persistence.dll
+D:\QLBH\Console PL\bin\Debug\net6.0\BL.pdb
+D:\QLBH\Console PL\bin\Debug\net6.0\Persistence.pdb
+D:\QLBH\Console PL\bin\Debug\net6.0\DAL.pdb
+D:\QLBH\Console PL\obj\Debug\net6.0\Console PL.csproj.CopyComplete
+D:\QLBH\Console PL\bin\Debug\net6.0\ConsoleTables.dll
+D:\QLBH\Console PL\bin\Debug\net6.0\Spectre.Console.dll
+D:\QLBH\Console PL\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+D:\QLBH\Console PL\bin\Debug\net6.0\Spectre.Console.ImageSharp.dll

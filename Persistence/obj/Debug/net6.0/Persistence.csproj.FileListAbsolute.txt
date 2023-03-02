@@ -1,0 +1,15 @@
+D:\QLBH\Persistence\bin\Debug\net6.0\Persistence.exe
+D:\QLBH\Persistence\bin\Debug\net6.0\Persistence.deps.json
+D:\QLBH\Persistence\bin\Debug\net6.0\Persistence.runtimeconfig.json
+D:\QLBH\Persistence\bin\Debug\net6.0\Persistence.dll
+D:\QLBH\Persistence\bin\Debug\net6.0\Persistence.pdb
+D:\QLBH\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+D:\QLBH\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\QLBH\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+D:\QLBH\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+D:\QLBH\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+D:\QLBH\Persistence\obj\Debug\net6.0\Persistence.dll
+D:\QLBH\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+D:\QLBH\Persistence\obj\Debug\net6.0\Persistence.pdb
+D:\QLBH\Persistence\obj\Debug\net6.0\Persistence.genruntimeconfig.cache
+D:\QLBH\Persistence\obj\Debug\net6.0\ref\Persistence.dll
